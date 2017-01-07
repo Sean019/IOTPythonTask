@@ -1,0 +1,6 @@
+time: 10:00
+
+for i in entry.split(",")
+	output string = time + entry
+	time + :03
+	

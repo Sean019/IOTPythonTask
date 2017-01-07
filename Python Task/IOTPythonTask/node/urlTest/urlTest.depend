@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1480977297 source:c:\users\home\desktop\codeblocks-16.01mingw-nosetup\urltest\main.cpp
+	<iostream>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string>
+	<ws2tcpip.h>
+	<winsock2.h>
+	<windows.h>
+
+1481033967 source:c:\users\home\desktop\masters in iot\sw eng for iot\sample iot system\node\urltest\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<winsock.h>
+	<sstream>
+
+1483143032 source:c:\users\sean\desktop\portablegit\base_iot_assignment_code\node\urltest\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<winsock.h>
+	<sstream>
+	<algorithm>
+	<ctime>
+
